@@ -1,0 +1,6 @@
+{
+  "name": "Dress Decode",
+  "description": "Modern, elegant fashion quiz app with level progression, style dictionary, trend corner, daily tips, and profile achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
